@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnalyzerDrammAMD</string>
+    <string name="dollar_desc">Dollar</string>
+    <string name="euro_desc">Euro</string>
+    <string name="rubol_desc">Rubol</string>
+    <string name="lair_desc">Lari</string>
+    <string name="dollar_cod">USD</string>
+    <string name="euro_cod">EUR</string>
+    <string name="rubol_cod">RUR</string>
+    <string name="lair_cod">GBP</string>
+</resources>
