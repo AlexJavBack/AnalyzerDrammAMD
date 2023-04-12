@@ -8,4 +8,6 @@
     <string name="euro_cod">EUR</string>
     <string name="rubol_cod">RUR</string>
     <string name="lair_cod">GBP</string>
+    <string name="buy_from_you">Will buy from you</string>
+    <string name="sell_you">Will sell you</string>
 </resources>
